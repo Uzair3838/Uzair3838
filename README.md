@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/uzair3838/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-uzair3838-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:uzairmustafa3838@gmail.com">
+  <a href="mailto:uzair.mustafa3838@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
   </a>
 </p>
@@ -20,7 +20,7 @@ I'm an AI/ML Engineer based in Pakistan, focused on building practical machine l
 - 🔬 Final Year Project: **Tomato Disease Detection System** — CNN from scratch, 97% accuracy, 10 disease classes, deployed with Flask
 - 🌱 Currently expanding into **LLMs, RAG pipelines, and MLOps**
 - 🎯 Interested in: Computer Vision · NLP · ML System Design
-- 📫 Reach me at: uzairmustafa3838@gmail.com
+- 📫 Reach me at: uzair.mustafa3838@gmail.com
 
 ---
 
